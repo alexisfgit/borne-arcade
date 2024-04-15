@@ -37,3 +37,6 @@ Je reporte les cotes de mon plan sur le panneau de bois :
 Je passe aux découpes principales :
 ![IMG_5960](https://github.com/alexisfgit/borne-arcade/assets/47323837/776ceff6-3e1e-405f-a9f8-a4edecd54383)
 Les deux panneaux, représentant les côtés de la borne sont coupés en étant superposés afin d'avoir la même coupe. De même pour les trous qui serviront à acceuillir les vis de fixation des tasseaux.
+
+Les tasseaux de la borne ajoutés :
+![IMG_6077](https://github.com/alexisfgit/borne-arcade/assets/47323837/6af7d641-2ef6-49ea-98b7-2f5eb48931df)
