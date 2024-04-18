@@ -42,4 +42,4 @@ Les tasseaux de la borne ajoutés :
 ![IMG_6077](https://github.com/alexisfgit/borne-arcade/assets/47323837/6af7d641-2ef6-49ea-98b7-2f5eb48931df)
 
 Début de l'assemblage et ajout du monayeur
-![IMG_6182](https://github.com/alexisfgit/borne-arcade/assets/47323837/dff88654-3995-448d-8f61-12e026ce6ff7)
+![IMG_6182](https://github.com/alexisfgit/borne-arcade/assets/47323837/0eec3988-968a-4fcb-abca-fb4cff28c79f)
